@@ -1,0 +1,151 @@
+
+.sortable li { padding: 0.3em; }
+.sortable li span { position: absolute; margin-left: -1.3em ; }
+.sortable {
+    border: 1px solid;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin: 1%;
+    margin-bottom: 75px;
+}
+.ababab {
+    float: left;
+    width: 15%;
+    margin-right: 1%;
+    margin-bottom: 19px;
+        min-height: 400px;
+
+
+}
+.item-list {
+    border: 1px solid #c5c5c5;
+    background: #f6f6f6;
+    font-weight: normal;
+    color: #454545;
+    text-align: center;
+    margin-bottom: 3px;
+}
+.nav {
+    color: floralwhite;
+    /*    background-color: #9E9E9E;
+        border-bottom: 1px solid #666;
+        border-color: #e5e5e5;*/
+    height: 80px;
+    margin-top: 0%;
+}
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: -webkit-xxx-large;
+}
+h3.heading {
+
+    text-align: center;
+}
+input#addC {
+    margin-top: 5%;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.blank {
+    margin-top: -20%;
+    margin-right: 10%;
+}
+input#reset {
+    margin-left: 82%;
+    margin-top: 5%;
+    /* padding-right: 18px; */
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.category {
+    margin-top: 3%;
+overflow: hidden ;
+}
+.site-footer {
+    background: #323031;
+    text-align: center;
+    line-height: 1;
+    height: 39px;
+    color: #fff;
+    margin: 0;
+    clear: both;
+    display: block;
+    padding-top: 25px;
+   
+    width: 100%;
+    bottom: 0;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.wrapper {
+  min-height: 100%;
+
+  /* Equal to height of footer */
+  /* But also accounting for potential margin-bottom of last child */
+ 
+}
+.site-footer,
+.push {
+  height: 50px;
+}
+input#addI {
+    padding: 0.4em;
+    height: 24px;
+    background: #f6f6f6;
+
+
+}
+.form-control {
+
+    color: black;
+}
+input#Selection {
+    border: 1px solid #111426;
+    border-radius: 4px;
+    height: 7px;
+    padding: 6px 0px;
+    font-size: 12px;
+    color: #0d0c10;
+    font-weight: normal;
+    margin-right: 7px;
+    width: 15%;
+    margin-bottom: 2%;
+
+
+}
+input#reset {
+    margin-top: 0%;
+}
+
+input#Selections {
+    border: 1px solid #111426;
+    border-radius: 4px;
+    height: 7px;
+    padding: 6px 0px;
+    font-size: 12px;
+    color: #0d0c10;
+    font-weight: normal;
+    margin-right: 7px;
+    width: 100%;
+    margin-bottom: 2%;
+}
+span#chars {
+       color: #FF5722;
+
+}
+span#charss {
+     color: #FF5722;
+}
+h3 {
+    font-size: 21px;
+    color: floralwhite;
+}
+
+
